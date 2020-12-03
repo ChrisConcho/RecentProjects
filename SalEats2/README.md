@@ -1,5 +1,4 @@
-# hw4-ChrisConcho
-hw3-ChrisConcho created by GitHub Classroom
+# Sal Eats 2
 
 You want to first download both zip files.
 Then Start by running the SalEats.sql in mySql Workbench
