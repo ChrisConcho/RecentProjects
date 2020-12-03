@@ -1,5 +1,14 @@
 # Sal Eats 2
+ABSTRACT
+Sal Eats 2 is a website to find local restaurants and book a reservation!
 
+FEATURES
+1. The google maps API to help users identify where they are located to help search for local restuarants.
+2. A yelp API is used to search for restaurants and based on the users inputs.
+3. Google Calendar allows users to book a reservation in their personal calendar to rember the date!
+4. A database is used to store all accounts created and remember their favorited restaurants for a quick and easy search.
+
+HOW TO RUN
 You want to first download both zip files.
 Then Start by running the SalEats.sql in mySql Workbench
 Next go to eclipse and run the Assignment4 using tomcat for the home-page.jsp.
